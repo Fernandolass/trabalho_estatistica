@@ -6,7 +6,9 @@ from sklearn.linear_model import LinearRegression
 import numpy as np
 
 # 1. Carregamento do dataset
-df = pd.read_csv("AirQuality.csv", sep=';', decimal=',', index_col=False)
+url = "https://raw.githubusercontent.com/Fernandolass/trabalho_q06/main/trabalho_q06/AirQuality.csv"
+df = pd.read_csv(url, sep=';', decimal=',')
+
 
 # 2. Pré-processamento
 df = df.replace(-200, np.nan)
