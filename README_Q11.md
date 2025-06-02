@@ -56,10 +56,11 @@ python aquecimento_global.py
 
 ## 📚 Requisitos
 
-- pandas
-- matplotlib
-- seaborn
-- numpy
+-pandas>=2.0.0
+-numpy>=1.24.0
+-matplotlib>=3.7.0
+-seaborn>=0.12.0
+-kagglehub>=0.2.7 
 
 ---
 
