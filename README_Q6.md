@@ -22,8 +22,7 @@ Este projeto realiza uma análise estatística do conjunto de dados **Air Qualit
 trabalho_q06/
 │
 ├── AirQuality.csv              
-├── trabalho_estatistica.py      
-└── README.md                    
+└── trabalho_estatistica.py                       
 ```
 
 ---
