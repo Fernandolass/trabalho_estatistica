@@ -19,9 +19,8 @@ Analisar a evolução da temperatura global ao longo do tempo, com foco nos segu
 ```
 trabalho_q11/
 │
-├── temperatures.csv              # Dataset com dados históricos de temperatura
-├── aquecimento_global.py         # Código Python com análise climática
-└── README.md                     # Este arquivo
+├── GlobalLandTemperaturesByCountry.csv         
+└── analise_temperaturas.py                         
 ```
 
 ---
